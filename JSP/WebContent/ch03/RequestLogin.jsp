@@ -23,6 +23,8 @@
 		<td align="left" width="260"> 
 				<input type="password" name="pass">
 		</td>
+		
+		
 	</tr>
 	<tr height="60">
 		<td colspan="2" align="center">
